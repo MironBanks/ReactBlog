@@ -13,7 +13,7 @@ export default [
         date: moment().format('MMMM DD, YYYY'),
         categories: ['React', 'JavaScript'],
         link: '#',
-        image: 'apollo_grqphql.jpg',
+        image: 'apollo_graphql.jpg',
     },
     {
         title: 'A Day in Life of a Programmer',
